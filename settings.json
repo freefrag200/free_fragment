@@ -1,0 +1,38 @@
+{
+  "xray_path": "F:/desktop/New folder (10)/dist/xray.exe",
+  "config_path": "F:\\desktop\\New folder (10)\\dist\\config.json",
+  "sub_url": "",
+  "url_profile": "YouTube",
+  "custom_url": "",
+  "timeout": 1,
+  "cpu_cores": 6,
+  "profile": "free",
+  "custom_packets": "tlshello\n1-1\n1-2\n1-3\n1-4\n1-5\n1-6\n1-7\n1-8\n1-9\n1-10",
+  "custom_length": "1-5\n6-10\n11-15\n16-20\n21-25\n26-30\n31-35\n36-40\n41-45\n46-50\n51-55\n56-60\n61-65\n66-70\n71-75\n76-80\n81-85\n86-90\n91-95\n96-100\n101-105\n106-110\n111-115\n116-120\n121-125\n126-130\n131-135\n136-140\n141-145\n146-150\n151-155\n156-160\n161-165\n166-170\n171-175\n176-180\n181-185\n186-190\n191-195\n196-200\n201-205\n206-210\n211-215\n216-220\n221-225\n226-230\n231-235\n236-240\n241-245\n246-250\n251-255\n256-260\n261-265\n266-270\n271-275\n276-280\n281-285\n286-290\n291-295\n296-300\n301-305\n306-310\n311-315\n316-320\n321-325\n326-330\n331-335\n336-340\n341-345\n346-350\n351-355\n356-360\n361-365\n366-370\n371-375\n376-380\n381-385\n386-390\n391-395\n396-400\n401-405\n406-410\n411-415\n416-420\n421-425\n426-430\n431-435\n436-440\n441-445\n446-450\n451-455\n456-460\n461-465\n466-470\n471-475\n476-480\n481-485\n486-490\n491-495\n496-500",
+  "custom_interval": "1-5\n6-10\n11-15\n16-20\n21-25\n26-30\n31-35\n36-40\n41-45\n46-50",
+  "geometry": "01d9d0cb0003000000000064000000450000051300000383000000640000006400000513000003830000000000000000078000000064000000640000051300000383",
+  "active_tab": 0,
+  "results_cols": [
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    79,
+    79
+  ],
+  "sub_cols": [
+    93,
+    72,
+    63,
+    64,
+    346
+  ],
+  "subscription_profiles": {
+    "barry-far": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
+    "SoliSpirit": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
+    "PSG | MIX": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix"
+  },
+  "selected_subscription_index": -1
+}
